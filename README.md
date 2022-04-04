@@ -11,12 +11,9 @@
  
 <!-- skill list -->
 <div display="inline-block">
-<h3 align="left">Tech Stack</h3>
-I'm full stack developer.<br>
-I don't want to lose any position.<br>
-So i try step by step.
-</div>
-                         
+<h3 align="left">Backjoon Level</h3>
+Bronze V<br>
+                        
 
 <!-- snake -->
 ![snake gif](https://github.com/lmistletoe/lmistletoe/blob/output/github-contribution-grid-snake.svg)
